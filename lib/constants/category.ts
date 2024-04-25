@@ -20,6 +20,7 @@ const Categories = [
   'perl',
   'php',
   'python',
+  'rpm',
   'ruby',
   'rust',
   'swift',
