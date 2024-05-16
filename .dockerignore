@@ -1,5 +1,7 @@
 *
-!tools/docker/bin
+!tools/
+!lib/
+!tsconfig*
 !dist/
 !package.json
 !pnpm-lock.yaml
